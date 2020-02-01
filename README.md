@@ -1,3 +1,6 @@
+# video-record-youtube
+This app is video recording app in react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
